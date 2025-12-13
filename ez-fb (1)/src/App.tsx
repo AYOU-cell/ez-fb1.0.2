@@ -31,7 +31,7 @@ export default function App() {
       s.parentNode.insertBefore(t, s);
     })(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js', null, null, null);
     
-    (window as any).fbq('init', '2042108606543368');
+    (window as any).fbq('init', '650527014720673');
     (window as any).fbq('track', 'PageView');
   }, []);
 
@@ -44,7 +44,7 @@ export default function App() {
             height="1" 
             width="1" 
             style={{ display: 'none' }}
-            src="https://www.facebook.com/tr?id=2042108606543368&ev=PageView&noscript=1"
+            src="https://www.facebook.com/tr?id=650527014720673&ev=PageView&noscript=1"
             alt=""
           />
         </noscript>
